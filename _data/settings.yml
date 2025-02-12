@@ -5,7 +5,7 @@ menu:
 - {name: 'Projects', url: ''}
 - {name: 'Blog',     url: 'blog'}
 - {name: 'About',    url: 'about'}
-- {name: 'About me',    url: 'aboutme'}
+- {name: 'About You',    url: 'aboutme'}
 - {name: 'Contact',  url: 'contact'}
 
 #-------------------------------
